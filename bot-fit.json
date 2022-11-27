@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "netcomputer-bot-eafc",
+  "private_key_id": "d44d491c1958c26e96171281f3e7de88bd01cee5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC3BSx9eVpYivN7\naHhtC8W6WNev8I6RslQ0ONRLDmvsniIjlqZTlvnSaKj8nO6iGcJ85QtgiXv+IQyu\nW8lthWSA4/1V4mLtrDVaNLr1E9X5va5AvLDUdB1duDCQ56oHfDpRl6JPl0idQWpQ\noHCKOdOhfzU8iEuXwyHfxcEVPeG+OIYv+iPxxc9b1bTlluFqk+nL9v+bLvR41GIv\nnRiRcEU1UaEacqWxv5paa2QjBFVspskOaQroVYnIzR4Iml5oniJjTqLI3VT52rqR\np07XvRh3uBwEylsZ/YhSFhnUjUXbURsTt0RvtaoFiELqDb4L0kdeKJ/LgDn/Ya8G\nZMeYsVzjAgMBAAECggEAV4qyfqvyooKINyG/5IzqfZlsRbw/PYJ6k2YRaXtS9SGo\ne7ReB4KiKVolZntcC45dwGbAW+M3O1WsnqPJw8i3y40CCrgYEM470NODD6H2yhfI\nBzAaNuz5dPAaztz4r87kiE2K9h4LPijhhQJRAlTpnQhfOv6IheVwyPvqwNHSLi1E\npzzn991wxLx8M3R8jCkd4CPqRt3MsTBSxZobYmJvyjXOGy4/zSCKZYn/vprJWgV3\ncF/jSzKK0l8udMXEQkIXkxpx0eVqqhnHzuRk/RwFnRBZcUl2UHG7kM513Y/konjC\nNLRd+JlszYmobI8pZ/O/xoEPBC1rrHFmJF/fbjBzOQKBgQDoyhlwroyCTX+ptY3w\nzD7uTa7bs1mdy6iTQWM1heRFgw5gDIqETbzPOqu5o658LMpBa/z9JlGkphX2xnZI\n5LXfhFl8wwoYEQQEC+RmdMKk8nZKMkp7ny6PnYRcPbuBk+iKv07e9/8u6VraOsdd\nTU3qDZ38+B+mYej/medaAjbl6wKBgQDJRLmqq1Cm7mL4yO1O+Bv4vCg68fSDh/oB\nT3laZhxn7bOzT+4f80X8xZAFLGugAPO/YFgW3ON0EiIfuaG0jdCBlH20o9yZsHDx\nSp0aEVAi+0rOi99D6IRi98FK9rNN0hGUqpvhePFWerzjB5U3wF2RTgDMGOyB0C9X\nTgdZlmXO6QKBgFrZrO4OISYlasJn6bpla9YDGVADAeGUfvjhVv+nfnwmdrDDlDeo\nQxy5MBXmLI2nyVOY+oYts0VH0GCb+cPfBp/x/h6z27eixGdz4LKftOs8+S9hyzHN\n4RUJi4OYUBp1CBdGLFjWfo/nYJ60u+PM7LCAmf0FNQzxP0ap4OF+5b/7AoGAdVIk\nUEIQf14SPycQfanO1E0JvmJvv4QxzTXAbVt8T3CWAX4kNmeeclvPOdTM37XuX64P\nazRTOcOgNJIGmrLXydD+/Z9O5h+dlmmB7kINTnbhAkkyWeld0jrNZ58qocBEEz7o\nIqRXOavOEyDGcHsnj53ChTY6Ful9zwxi6Gvs6JECgYEAtiEgopPbGL2s9Xm9tHbn\npsBc354nJCI/1AuIqujuS1otpgRgYHBYYHBb/dhKEYGfKn0wmxb1dAzn5kQLMRSS\nEqaCXIcPCwVfMLfrgzD4ahyqXTvsaMR112Wl56zMrIUT8vsIb0nIn6bXcvLJFlME\nC11uiZxI8ZxnTOCoWTDfvtw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "netcomputer@netcomputer-bot-eafc.iam.gserviceaccount.com",
+  "client_id": "107234511080857980648",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/netcomputer%40netcomputer-bot-eafc.iam.gserviceaccount.com"
+}
